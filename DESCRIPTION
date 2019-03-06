@@ -1,11 +1,7 @@
 Package: nba
 Title: NBA Information
 Version: 0.0.0.9000
-Authors@R: 
- person(given = "Xinyue",
- family = "Li",
- role = c("aut", "cre"),
- email = "xl2823@columbia.edu")
+Authors@R: person(given = "Xinyue", family = "Li", role = c("aut", "cre"), email = "xl2823@columbia.edu")
 Description: This package has three functions for getting NBA player's competition information
 License: What license it uses
 Encoding: UTF-8
